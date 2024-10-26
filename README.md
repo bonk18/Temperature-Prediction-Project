@@ -1,20 +1,20 @@
 
 
-## Seoul Daily Temperature Prediction using LDAPS Model  
+# Seoul Daily Temperature Prediction using LDAPS Model  
 
 This project leverages the LDAPS (Local Data Assimilation and Prediction System) model dataset to analyze and predict daily temperatures in Seoul, South Korea. The project involves data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling to enhance insights and forecasting accuracy for Seoul's temperature patterns.
 
-### Project Overview  
+## Project Overview:   
 The goal of this project is to predict daily maximum and minimum temperatures in Seoul using historical weather data provided by the LDAPS model. This analysis provides valuable insights into temperature trends and helps improve forecasting accuracy for specific days.  
 
-### Dataset Information
+##  Dataset Information
 The dataset used in this project includes the following features:
 
 - Geospatial data: Latitude, Longitude.  
 - Meteorological data: Daily minimum and maximum temperatures, atmospheric pressure, lapse rate, humidity, and other environmental factors.  
 - The data was sourced from LDAPS, a high-resolution weather prediction model that provides daily predictions.  
 
-### Project Workflow  
+## Project Workflow  
 
 ### - Data Preprocessing:  
 Conversion of date information to datetime format for better handling and analysis.
@@ -39,5 +39,5 @@ Results
 The final model achieved a high accuracy in predicting daily temperature variations in Seoul. 
 
 
-### License  
+## License  
 This project is licensed under the MIT License.
